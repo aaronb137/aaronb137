@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" width="100"/>
+  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" height="30" width="40"/>
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronb137&show_icons=true&locale=en&layout=compact" alt="aidanvancil" /></p>
