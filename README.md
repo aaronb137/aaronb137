@@ -2,8 +2,10 @@
   <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" width="100"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronb137&show_icons=true&locale=en&layout=compact" alt="aaronb137" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronb137&show_icons=true&locale=en&theme=tokyonight" alt="aaronb137" /></p>
+<div style="display: flex; flex-direction: row;">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronb137&show_icons=true&locale=en&layout=compact" alt="aaronb137"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronb137&show_icons=true&locale=en&theme=tokyonight" alt="aaronb137"/>
+</div>
 ### Hi there 👋
 
 <!--
