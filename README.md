@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="![image](https://github.com/aaronb137/aaronb137/assets/6921499/b0c4bacf-914d-4948-830b-aca651792733)
+  <img src="[![image](https://github.com/aaronb137/aaronb137/assets/6921499/b0c4bacf-914d-4948-830b-aca651792733)](https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif)
 " width="100"/>
 </div>
 
