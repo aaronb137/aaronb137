@@ -2,9 +2,7 @@
   <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" width="100"/>
 </div>
 <div id="badges" align="center" style="display: flex; flex-direction: row;">
-  <a href="https://www.linkedin.com/in/aaron-bartee/">
     [![Linkedin Badge](https://img.shields.io/badge/-aaronbartee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-bartee/)](https://www.linkedin.com/in/aaron-bartee/)
-  </a>
 <h1 align="center" style="display: flex; flex-direction: row;">
   Hi, I'm Aaron!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
