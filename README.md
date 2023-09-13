@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center" style="display: flex; flex-direction: column;">
   <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" width="100"/>
 </div>
 
