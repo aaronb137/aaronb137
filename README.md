@@ -3,7 +3,7 @@
 </div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronb137&show_icons=true&locale=en&layout=compact" alt="aaronb137" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronb137&show_icons=true&locale=en&theme=tokyonight" alt="aaronb137" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aaronb137&show_icons=true&locale=en&theme=tokyonight" alt="aaronb137" /></p>
 ### Hi there 👋
 
 <!--
