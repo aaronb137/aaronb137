@@ -1,7 +1,7 @@
 <div id="header" align="center" style="display: flex; flex-direction: row;">
   <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" width="100"/>
 </div>
-<div align="center" style="padding-bottom: 12rem;">
+<div align="center">
    <a href="https://www.linkedin.com/in/aaron-bartee/">
     <img src="https://img.shields.io/badge/-aaronbartee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaron-bartee/" alt="LinkedIn Badge"/>
   </a>
