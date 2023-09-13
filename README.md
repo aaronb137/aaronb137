@@ -2,6 +2,7 @@
   <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" width="100"/>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronb137&show_icons=true)
 ### Hi there 👋
 
 <!--
