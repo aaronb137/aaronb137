@@ -6,7 +6,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronb137&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="aaronb137"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronb137&show_icons=true&locale=en&theme=tokyonight" alt="aaronb137"/>
 </div>
-### Hi there 👋
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aaron-bartee/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **aaronb137/aaronb137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
