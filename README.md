@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/aaron-bartee/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<div>
+<h2>
   Hi, I'm Aaron!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+</h2>
 
 </div>
 <div style="display: flex; flex-direction: row;">
