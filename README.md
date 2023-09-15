@@ -13,7 +13,7 @@
 
 </div>
 <div style="display: flex; flex-direction: row;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronb137&show_icons=true&locale=en&layout=donut&theme=tokyonight&hide=jupyternotebook" alt="aaronb137"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronb137&show_icons=true&locale=en&layout=donut&theme=tokyonight&hide=jupyter%20notebook " alt="aaronb137"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronb137&show_icons=true&locale=en&theme=tokyonight" alt="aaronb137"/>
 </div>
 
