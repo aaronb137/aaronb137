@@ -1,5 +1,5 @@
 <div id="header" align="center" style="display: flex; flex-direction: row;">
-  <img src="https://media.tenor.com/TCMWkxIkF9IAAAAC/dancing-gopher.gif" width="100"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.png" width="100"/>
 </div>
 <div align="center">
    <a href="https://www.linkedin.com/in/aaron-bartee/">
